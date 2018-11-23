@@ -1,4 +1,4 @@
-package org.windwant.monitor.starter.config;
+package org.windwant.starterx.monitor.config;
 
 import org.aopalliance.aop.Advice;
 import org.slf4j.Logger;
@@ -7,8 +7,8 @@ import org.springframework.aop.Pointcut;
 import org.springframework.aop.support.AbstractPointcutAdvisor;
 import org.springframework.aop.support.annotation.AnnotationMatchingPointcut;
 import org.springframework.context.annotation.Configuration;
-import org.windwant.monitor.starter.annotation.Monitor;
-import org.windwant.monitor.starter.interceptor.MonitorAdvice;
+import org.windwant.starterx.monitor.annotation.Monitor;
+import org.windwant.starterx.monitor.interceptor.MonitorAdvice;
 
 import javax.annotation.PostConstruct;
 

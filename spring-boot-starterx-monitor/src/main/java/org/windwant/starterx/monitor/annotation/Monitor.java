@@ -1,4 +1,4 @@
-package org.windwant.monitor.starter.annotation;
+package org.windwant.starterx.monitor.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

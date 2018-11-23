@@ -1,4 +1,5 @@
-target/
+spring-boot-starterx-monitor/target/
 .idea/
-spring-boot-starter-monitor.iml
+spring-boot-starterx.iml
+spring-boot-starterx-monitor.iml
 *.prefs
